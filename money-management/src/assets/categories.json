@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Maintenance",
+        "color": "#BF9885"
+    },
+    {
+        "name": "Food",
+        "color": "#5D7A6B"
+    },
+    {
+        "name": "Clothing",
+        "color": "#7B8A76"
+    },
+    {
+        "name": "Transport",
+        "color": "#DD7078"
+    },
+    {
+        "name": "Tithe",
+        "color": "#EF4666"
+    },
+    {
+        "name": "Investment",
+        "color": "#9D7D6D"
+    },
+    {
+        "name": "Economy",
+        "color": "5A6556"
+    },
+    {
+        "name": "Other",
+        "color": "6D202F"
+    }
+]

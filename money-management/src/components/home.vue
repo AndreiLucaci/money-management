@@ -7,12 +7,16 @@
 </template>
 
 <script>
+import ResouceManager from '../js/resource-manager';
+
+var resourceManager = new ResouceManager();
+
 export default {
   name: "home",
   data(){
     return {
-      welcomeMsg: getRes("home.time"),
-      info: this.getRes("home.description")
+      welcomeMsg: resourceManager.get("home.title"),
+      info: resourceManager.get("home.description")
     }
   }
 }
